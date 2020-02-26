@@ -18,3 +18,13 @@ I like to thank the PKHex Community as well as all the amazing Pokémon Generato
 
 
 
+Changelog
+
+2/25/20
+- Added Gen 8 "Perfect" Ditto files. 
+- Added Gen 7 Pokemon files that can be transferred from Bank>Home>SwSh 
+- General Tidy Up of the files and where they are for organizational and searching purposes.
+
+
+2/23/20 
+Default Upload
