@@ -6,7 +6,7 @@ PK Files
 
 All Pokémon have OT Neo unless otherwise not legal to have OT Changed
 
-ALl Pokémon are Legal
+All Pokémon are Legal
 
 All Pokémon in Gen 8 Data are Square Shinies if they are legal to be shinies. Home Pokémon are included as well
 
