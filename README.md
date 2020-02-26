@@ -18,6 +18,8 @@ I like to thank the PKHex Community as well as all the amazing Pokémon Generato
 
 
 
+
+
 Changelog
 
 2/26/20
