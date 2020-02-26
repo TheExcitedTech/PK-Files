@@ -10,7 +10,7 @@ All Pokémon are Legal
 
 All Pokémon in Gen 8 Data are Square Shinies if they are legal to be shinies. Home Pokémon are included as well
 
-All PK7 are in Apriballs unless they are not legal to be in them
+All PK7 files in the "Complete Shiny Dex" are in Apriballs unless they are not legal to be in them
 
 The Ultra Moon Save and the Shield Save are in this repo too
 
