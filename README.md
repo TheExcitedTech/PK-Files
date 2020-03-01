@@ -22,6 +22,10 @@ I like to thank the PKHex Community as well as all the amazing Pokémon Generato
 
 Changelog
 
+3/1/20
+- Added Perfect Ditto files for Gen 7.
+- Further Tidying up of the files.
+
 2/26/20
 - Removed Nezcroma Forms, you can't transfer them directly to Bank>Home
 
