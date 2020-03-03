@@ -22,6 +22,9 @@ I like to thank the PKHex Community as well as all the amazing Pokémon Generato
 
 Changelog
 
+3/3/20
+- Added PK7 Files. Pokemon with Hidden Abilities that aren't available unless transferred from Home. They all have Egg Moves
+
 3/1/20
 - Added Perfect Ditto files for Gen 7 based on the r/MoreBreedingDittos dittos.
 - Further Tidying up of the files.
