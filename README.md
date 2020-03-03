@@ -23,7 +23,41 @@ I like to thank the PKHex Community as well as all the amazing Pokémon Generato
 Changelog
 
 3/3/20
+
 - Added PK7 Files. Pokemon with Hidden Abilities that aren't available unless transferred from Home. They all have Egg Moves
+Clefairy
+Goldeen
+Hoothoot
+Chinchou
+Sudowoodo
+Wingull
+Nincada
+Electrike
+Torkoal
+Barboach
+Drifloon
+Bronzor
+Skorupi
+Croagunk
+Snover
+Purrloin
+Munna
+Pidove
+Woobat
+Throh
+Sawk
+Basculin Red
+Basculin Blue
+Maractus
+Elgyem
+Cubchoo
+Golett
+Meowstic Male
+Meowstic Female
+Binacle
+Bergmite
+Noibat
+
 
 3/1/20
 - Added Perfect Ditto files for Gen 7 based on the r/MoreBreedingDittos dittos.
